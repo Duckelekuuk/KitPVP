@@ -1,4 +1,4 @@
-package com.duckelekuuk.kitpvp.kitpvp;
+package com.duckelekuuk.kitpvp;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

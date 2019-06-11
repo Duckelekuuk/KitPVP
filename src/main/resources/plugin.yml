@@ -1,6 +1,6 @@
 name: Kitpvp
 version: ${project.version}
-main: com.duckelekuuk.kitpvp.kitpvp.Kitpvp
+main: Kitpvp
 api-version: 1.13
 authors: [Duckelekuuk]
 website: http://duckelekuuk.com
